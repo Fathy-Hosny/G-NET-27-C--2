@@ -34,28 +34,8 @@
             #endregion
 
 
-            #region Question 2: Variable Declaration - Explicit vs Implicit
-            // ══════════════════════════════════════════════════════════════════════
-            // QUESTION 3: VARIABLE DECLARATION - EXPLICIT VS IMPLICIT
-            // ══════════════════════════════════════════════════════════════════════
-            //
-            // Q: What is the difference between explicit and implicit variable 
-            //    declaration in C#? Provide examples of both.
-            //
-            // ══════════════════════════════════════════════════════════════════════
+   
 
-            /*
-            // EXPLICIT DECLARATION 
-            int number = 10;
-            string name = "Fathy";
-
-            // IMPLICIT DECLARATION 
-            var age = 24;        // int
-            var city = "Giza";    // string
-            */
-            #endregion
-
-           
 
         }
     }
