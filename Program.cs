@@ -33,6 +33,7 @@
 
             #endregion
 
+
             #region Question 2: Variable Declaration - Explicit vs Implicit
             // ══════════════════════════════════════════════════════════════════════
             // QUESTION 3: VARIABLE DECLARATION - EXPLICIT VS IMPLICIT
@@ -53,7 +54,6 @@
             var city = "Giza";    // string
             */
             #endregion
-
             #region Question 3: Constants
             // ══════════════════════════════════════════════════════════════════════
             // QUESTION 4: CONSTANTS
@@ -440,6 +440,8 @@
             Console.WriteLine(obj.GetType());
             */
             #endregion
+
+
         }
     }
 }
